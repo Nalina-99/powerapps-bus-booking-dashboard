@@ -41,12 +41,6 @@ The goal of this project was to design a modern and responsive UI layout using P
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](bus booking dashboard.png)
-
----
-
 ## Technology Used
 
 * Microsoft Power Apps
